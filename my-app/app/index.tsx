@@ -13,7 +13,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>hello Team</Text>
+      <Text>hello Team mate</Text>
       <TouchableOpacity onPress={() => {
         console.log('Button pressed!');
         alert('Button pressed!');
